@@ -3,4 +3,4 @@
 
 <p align="center"> <b>! Tested on version 1.10.0 ! </b></p> <br>
 
-[![HitCount](http://hits.dwyl.io/MCPEATECH/SimpleCoins.svg)](http://hits.dwyl.io/MCPEATECH/SimpleCoins)
+<center> [![HitCount](http://hits.dwyl.io/MCPEATECH/SimpleCoins.svg)](http://hits.dwyl.io/MCPEATECH/SimpleCoins) </center>
