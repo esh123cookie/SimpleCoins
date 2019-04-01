@@ -1,6 +1,6 @@
 name: SimpleCoins
-main: MCATECH\simplecoins\simplecoins
-version: 0.0.1
+main: MCATECH\simplecoins\Main
+version: 1.0.0
 api: 3.7.1
 load: POSTWORLD
 description: More details about this plugin are found in the ReadMe.md.
@@ -8,10 +8,19 @@ author: MCATECH
 commands:
  coins:
   default: true
- givecoins:
+  description: 'Check a coin balance'
+ rarecoins:
   default: true
- takecoins:
+  description: 'Check for rarecoins'
+ setcoins:
+  default: op
+  description: 'Set a players coin balance'
+ remcoins:
+  default: op
+  description: 'Remove coins from a player'
+ addcoins:
+  default: op
+  description: 'Add coins to a player'
+ coininfo:
   default: true
-permissions:
- coins.use
-  default: true
+  description: 'Coins info'
