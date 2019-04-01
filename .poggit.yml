@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/MCPEATECH/SimpleCoins
+branches:
+- master
+projects:
+  SimpleCoins:
+    path: ""
+...
