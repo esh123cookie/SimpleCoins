@@ -1,0 +1,17 @@
+name: SimpleCoins
+main: MCATECH\simplecoins\simplecoins
+version: 0.0.1
+api: 3.7.1
+load: POSTWORLD
+description: More details about this plugin are found in the ReadMe.md.
+author: MCATECH
+commands:
+ coins:
+  default: true
+ givecoins:
+  default: true
+ takecoins:
+  default: true
+permissions:
+ coins.use
+  default: true
