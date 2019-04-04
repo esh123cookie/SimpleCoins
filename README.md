@@ -4,3 +4,11 @@
 <p align="center"> A simple coin system with easy to use api aswell as the addition of coins on death! <b>! Tested on version 1.10.0 ! </b></p> <br>
 
 [![HitCount](http://hits.dwyl.io/MCPEATECH/SimpleCoins.svg)](http://hits.dwyl.io/MCPEATECH/SimpleCoins)
+
+## SimpleCoins Commands
+
+| Default command | Parameter | Description | Default Permission |
+| :-----: | :-------: | :---------: | :-------: |
+| /coins | | Shows your money | All |
+| /topcoins WIP | | Shows top money | All |
+| /addcoins | `<coins>` | Adds `<money>` To a player | `OP` |
