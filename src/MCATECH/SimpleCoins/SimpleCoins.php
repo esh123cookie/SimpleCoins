@@ -21,9 +21,11 @@ use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
 
-class Main extends PluginBase{
+class SimpleCoins extends PluginBase{
 	
 	protected static $instance;
+	
+	public $SimpleCoins;
 	
 	public $prefix = "§eSimpleCoins - ";
 	
