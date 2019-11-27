@@ -7,7 +7,7 @@
 
 ## Using the API
 
-Within your plugin call the static function with SimpleCoins::getInstance() and follow it up with some of the api, for example: getCoins($player) 
+Within your plugin call the static function with 'SimpleCoins::getInstance()' and follow it up with some of the api, for example: 'getCoins($player)'
 
 ## SimpleCoins Commands
 
